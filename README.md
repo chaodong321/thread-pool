@@ -1,2 +1,2 @@
 # thread-pool
-simple socket test
+简单线程池实现
